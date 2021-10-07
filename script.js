@@ -9,3 +9,5 @@ function playSound(sound) {
         audioElement.play();
     }
 }
+
+// continuar dos 10 minutos
